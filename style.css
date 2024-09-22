@@ -32,27 +32,10 @@ header {
   justify-content: center;
   align-items: center;
 }
-
-.links {
-  display: flex;
-  gap: 10px;
+p{
+  text-align: center;
+  margin: 0 auto;
 }
-
-.links a {
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 25px;
-  padding: 6px;
-  font-weight: bold;
-}
-
-.links a:hover {
-  color: Black;
-  background-color: #9395d3;
-  border-radius: 10px;
-}
-
-
 /*-----Image Gallery-----*/
 .gallery-heading {
   flex-grow: 1;
