@@ -34,11 +34,13 @@ header {
 }
 
 .und-header{
-  background-color: #1c192e;
+  background-color: #1c192f;
   width: 100%;
   height: 2rem;
   align-items: center;
   text-align: center;
+  color: white;
+}
 p{
   text-align: center;
   margin: 0 auto;
