@@ -180,13 +180,16 @@ header {
 }
 
 /*-----Responsive style---*/
-@media (Max-width: 710px) {
+@media (max-width: 710px) {
   #heading{
     font-size: 18px;
   }
   .links a{
     font-size: 16px;
     column-gap: 5px;
+  }
+  .like-btn{
+    font-size: 16px;
   }
   .images{
     display: grid;
