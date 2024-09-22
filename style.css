@@ -180,7 +180,7 @@ header {
 }
 
 /*-----Responsive style---*/
-@media (max-width: 710px) {
+@media (max-width: 780px) {
   #heading{
     font-size: 18px;
   }
