@@ -11,7 +11,8 @@ images.forEach(image => {
     image.addEventListener('click', () => {
         fullscreenImg.src = image.src;
         downloadBtn.href = image.src; // Set the download link to the image source
-        overlay.style.display = 'flex';
+        //overlay.style.display = 'flex';
+        fullscreenOverlay.style.display = 'block';
     });
 });
 
